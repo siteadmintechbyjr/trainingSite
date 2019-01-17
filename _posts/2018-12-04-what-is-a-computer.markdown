@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is a computer?"
-date:   2018-12-04 10:15:56 -0500
+date:   2019-01-17 10:15:56 -0500
 categories: jekyll update
 ---
 
